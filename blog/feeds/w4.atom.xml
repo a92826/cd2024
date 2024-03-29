@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-03-29T07:10:07+08:00</updated><entry><title>2024 Spring 課程w4</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-03-29T07:10:07+08:00</updated><author><name>41023239</name></author><id>tag:None,2024-03-08:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+&lt;p&gt;協同產品設計實習的第四週任務：
+在第四週，各分組需要明確界定任務需求和分工時序。隨著協同設計流程的進行，分組倉儲和網站的改版變得更加複雜。這時可以導入SourceTree來協助各組員更清楚地看到倉儲改版歷程，同時應用Git Branch也能減少各學員在階段性改版內容完成之前推向Github分組倉儲的合併次數。&lt;/p&gt;
+&lt;p&gt;教學影片分組整理並自評：
+各組需要搜尋已經發布的教學影片，填上字幕並上傳到可以嵌入到各分組網站的地方。同時需要從影片字幕中整理出逐字稿，放在影片下方以.txt格式提供連結。並在嵌入的教學影片下方，以摘要方式說明該影片的教學重點。&lt;/p&gt;
+&lt;p&gt;Github個人與分組倉儲的維護方式：
+個人的倉儲名稱為cd2024，分組倉儲位於mdecd2024帳號下，以2a開頭，加上"-"之後再補上midag + 組別。各組員的cd2024個人倉儲必須設為各分組倉儲的子模組，目的是讓各組員可以自行管理並維護自己的課程倉儲，並決定要引入分組倉儲的內容版次。&lt;/p&gt;
+&lt;p&gt;四種介紹的倉儲維護方式：
+這段文字介紹了四種不同的倉儲維護方式，包括Replit、Codespaces、Gitpod和localhost。它們各自有不同的特點和使用方式，可以根據實際需求來選擇最適合的方式來進行倉儲維護。&lt;/p&gt;
+&lt;p&gt;使用NX1872協同繪製零組件：
+這部分介紹了如何使用不同版本的NX來進行繪製工作，並提供了相應的啟動指令和說明。&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
