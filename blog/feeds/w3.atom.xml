@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w3</title><link href="./" rel="alternate"></link><link href="./feeds/w3.atom.xml" rel="self"></link><id>./</id><updated>2024-03-29T07:02:39+08:00</updated><entry><title>2024 Spring 課程w3</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-03-29T07:02:39+08:00</updated><author><name>41023239</name></author><id>tag:None,2024-03-08:./2024-Spring-w3-blog-tutorial.html</id><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w3</title><link href="./" rel="alternate"></link><link href="./feeds/w3.atom.xml" rel="self"></link><id>./</id><updated>2024-03-29T07:04:45+08:00</updated><entry><title>2024 Spring 課程w3</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-03-29T07:04:45+08:00</updated><author><name>41023239</name></author><id>tag:None,2024-03-08:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+&lt;p&gt;期中分組倉儲與網站的列出，並使用 Brython 程式語法直接在網頁中列出特定連結內容，其中包括不同組別的期中報告倉儲與網站連結。&lt;/p&gt;
+&lt;p&gt;期中協同分組報告的製作流程，包括將組員個人倉儲設為分組倉儲的子模組、將組員個人倉儲納入分組倉儲成為子模組、在 Replit 中維護分組倉儲等步驟。&lt;/p&gt;
+&lt;p&gt;使用 Github Codespaces、Gitpod 進行維護倉儲與網站的說明，包括如何在 Gitpod 中管理個人網站和分組網站、如何設定雙重認證、如何將組員的個人倉儲設為分組倉儲的子模組等。&lt;/p&gt;
+&lt;p&gt;LaTeX 轉 PDF 機制的使用方法，包括利用 miktex-portable 進行 LaTeX 編譯、使用 Github Actions 執行轉檔、使用可攜程式編譯 LaTeX 等相關說明。&lt;/p&gt;
+&lt;p&gt;提供了關於 TeX 與 LaTeX 的基本說明，包括 TeX 的應用和 LaTeX 的工作原理。&lt;/p&gt;
+&lt;p&gt;設定網誌系統的說明，包括使用 Pelican 網誌系統建立個人網站、編輯網站內容等步驟。&lt;/p&gt;
+&lt;p&gt;提供了有關 OnShape、CoppeliaSim 的帳號設定和應用說明，以及模型簡化過程的注意事項。&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
