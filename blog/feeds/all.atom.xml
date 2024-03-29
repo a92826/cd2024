@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-29T07:16:32+08:00</updated><entry><title>2024 Spring 課程w5</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-03-29T07:15:40+08:00</updated><author><name>41023239</name></author><id>tag:None,2024-03-22:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-29T07:41:09+08:00</updated><entry><title>2024 Spring 課程w5</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-03-29T07:15:40+08:00</updated><author><name>41023239</name></author><id>tag:None,2024-03-22:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;p&gt;SSH 設定管理分組倉儲的權限&lt;/p&gt;
@@ -48,11 +48,11 @@ Sourcetree&lt;/p&gt;
 &lt;p&gt;Replit 管理分組倉儲：解釋如何在 Replit 中使用 SSH 模式連接到 Github 倉儲，以便維護分組網站內容。&lt;/p&gt;
 &lt;p&gt;期中協同倉儲與報告網站：指導甲班第一組組長建立特定的 Team，以及建立期中協同倉儲和報告網站的操作步驟。&lt;/p&gt;
 &lt;p&gt;Codespaces 維護倉儲與網站：說明如何使用 Github Codespaces 維護個人或分組網站內容，並最佳化免費核心小時的使用。&lt;/p&gt;
-&lt;p&gt;近端執行動態網站：介紹如何利用近端可攜系統維護分組網站，以便學員了解如何在本地環境中操作網站。&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-29T05:58:21+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;近端執行動態網站：介紹如何利用近端可攜系統維護分組網站，以便學員了解如何在本地環境中操作網站。&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-29T07:41:09+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;h1&gt;內容管理系統3&lt;/h1&gt;
+&lt;h1&gt;內容管理系統&lt;/h1&gt;
 &lt;p&gt;使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
 &lt;p&gt;引用網站網址連結的方法:&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; - 在文章中多次引用同一個網站連結時, 可以使用此種方法.&lt;/p&gt;
