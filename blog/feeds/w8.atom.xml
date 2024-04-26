@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w8</title><link href="./" rel="alternate"></link><link href="./feeds/w8.atom.xml" rel="self"></link><id>./</id><updated>2024-04-26T05:46:27+08:00</updated><entry><title>2024 Spring 課程w8</title><link href="./2024-Spring-w8-blog-tutorial.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-04-26T05:46:27+08:00</updated><author><name>41023239</name></author><id>tag:None,2024-04-12:./2024-Spring-w8-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+&lt;p&gt;課程概要：這是一門協同產品設計實習課程，學員使用網際內容管理系統（CMS），採用Github Classroom建立分組倉儲，使用Python執行網頁編輯，並將其轉換為靜態網頁，以利用Github Pages呈現產品設計過程相關內容。
+網頁編輯工具：學員可以選擇使用Replit、Codespaces、Gitpod或本地主機進行網頁編輯，根據各自喜好與環境選擇。
+協同模式：學員可以透過不同的協同模式，包括網站內容、報告內容、產品設計、零組件設計、模擬場景設計和專案簡報設計，進行協同工作。
+具體協同內容：
+分組網站內容的協同
+分組報告內容的協同
+分組產品設計的PLM協同
+分組零組件設計的協同
+分組模擬場景設計的協同
+分組專案簡報設計的協同
+導入AI的流程：在課程中還探討了使用ChatGPT 3.5和Gemini Pro對話來獲得進階參考意見的可能性，並將此納入課程內容。
+這些內容顯示了一個非常全面的課程架構，學生將在這個課程中學到許多與實際產品設計相關的技能和知識。&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
