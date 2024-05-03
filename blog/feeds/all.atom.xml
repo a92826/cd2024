@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-26T11:00:00+08:00</updated><entry><title>2024 Spring 課程w10</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-04-26T05:55:45+08:00</updated><author><name>41023239</name></author><id>tag:None,2024-04-26:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-03T11:00:00+08:00</updated><entry><title>2024 Spring 課程w11</title><link href="./2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T11:00:00+08:00</published><updated>2024-05-03T06:47:18+08:00</updated><author><name>41023239</name></author><id>tag:None,2024-05-03:./2024-Spring-w11-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+&lt;p&gt;協同產品設計實習第十一週實習操作&lt;/p&gt;
+&lt;p&gt;任務概述
+本週學員將利用 Siemens NX 1872 軟體進行鋼球平衡台所需零組件的繪製。
+任務要求
+根據提供的 Solvespace_model_2d_for_cd2024_w6.7z 檔案中的零組件尺寸，使用 Siemens NX1872 軟體完成零組件的繪圖。
+將操作過程錄製成影片，並上傳至個人與分組網站。
+相關資源
+Siemens NX 1872 軟體：學員需先下載至個人電腦或隨身碟中，並通過連網認證後方可使用。
+Solvespace_model_2d_for_cd2024_w6.7z 檔案：提供了零組件的尺寸資訊，供學員參考使用。
+個人與分組網站：用於上傳操作過程的影片。
+操作步驟
+下載並安裝 Siemens NX 1872 軟體。
+登入 @nfu.edu.tw 取得認證，開啟 NX 1872。
+根據 Solvespace_model_2d_for_cd2024_w6.7z 提供的尺寸資訊，建立新的零組件檔案。
+使用 NX 的草圖建構功能，根據零組件的尺寸資訊繪製草圖。
+完成草圖後，使用長出特徵功能將草圖轉換為零組件的實體。
+重複步驟 3-5，完成所有零組件的繪製。
+組裝零組件，確保鋼球平衡台的正確性與完整性。
+將操作過程錄製成影片，包括各步驟的詳細操作和解說。
+上傳影片至個人與分組網站中。
+學習目標
+熟練使用 Siemens NX 1872 軟體進行零組件的繪製。
+瞭解如何根據提供的尺寸資訊，進行零組件的建模。
+學習如何使用 NX 的不同功能進行草圖建構、特徵長出和組件組裝。
+提升團隊協作能力，將個人的操作過程分享至分組網站，促進討論和交流。&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程w10</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-04-26T05:55:45+08:00</updated><author><name>41023239</name></author><id>tag:None,2024-04-26:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;p&gt;協同產品設計實習第十週實習操作&lt;/p&gt;
