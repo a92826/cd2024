@@ -650,6 +650,10 @@ doc["threejsblock"].bind("click", threejsblock.do)
 <p>组的</p>
 <p>在我们的</p>
 <p>团队里面好所以我们先把</p>
+<h1>2a w6 教學影片任務</h1>
+<p></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/PAnbfj7dUnA?si=TfvPf9BpT_ynyVuv" title="YouTube video player" width="560"></iframe></p>
+<p></p>
 <h1>每周課程進度</h1>
 <h2>w1</h2>
 <p><strong>內容管理系統</strong></p>
@@ -949,13 +953,21 @@ doc["threejsblock"].bind("click", threejsblock.do)
 <p>課程概要：這是一門協同產品設計實習課程，學員使用網際內容管理系統（CMS），採用Github Classroom建立分組倉儲，使用Python執行網頁編輯，並將其轉換為靜態網頁，以利用Github Pages呈現產品設計過程相關內容。 網頁編輯工具：學員可以選擇使用Replit、Codespaces、Gitpod或本地主機進行網頁編輯，根據各自喜好與環境選擇。 協同模式：學員可以透過不同的協同模式，包括網站內容、報告內容、產品設計、零組件設計、模擬場景設計和專案簡報設計，進行協同工作。 具體協同內容： 分組網站內容的協同 分組報告內容的協同 分組產品設計的PLM協同 分組零組件設計的協同 分組模擬場景設計的協同 分組專案簡報設計的協同 導入AI的流程：在課程中還探討了使用ChatGPT 3.5和Gemini Pro對話來獲得進階參考意見的可能性，並將此納入課程內容。 這些內容顯示了一個非常全面的課程架構，學生將在這個課程中學到許多與實際產品設計相關的技能和知識。</p>
 <h2>w9</h2>
 <section class="post-content">
-<p>2024 Spring 網際內容管理與協同產品設計實習課程教學導引.</p>
+<p><strong>2024 Spring 網際內容管理與協同產品設計實習課程教學導引.</strong></p>
 <p>在這個專案中，我們將透過 ChatGPT、Gemini 1.5 Pro 和 Claude 3 的協助，進行協同產品設計實習。以下是我們的工作步驟：</p>
 <p>協同資料處理 首先，我們需要處理兩個 CSV 檔案：2a_cd2024_midterm.csv 和 2b_cd2024_midterm.csv。這些檔案包含了學號、Github 帳號和組別等資訊。我們的目標是將這些資料映射到各組別的成員與分組網站上。</p>
 <p>使用 Python 的 pandas 庫來讀取和處理 CSV 檔案。 確保每個檔案都有相同的結構，以便進行合併或處理。 對於每個組別，整理成員的資訊並建立相應的連結。 確認連結的正確性，可能需要手動檢查一些資料以確保準確性。 鋼球平衡台 PID 控制與模擬 我們需要下載 cd2024_ball_balancing_platform_control_ref.7z 檔案，並閱讀其內容。然後，將摘要內容放入個人與分組網誌中。</p>
 <p>使用 Python 控制 CoppeliaSim 鋼球平衡台 我們需要使用 Python 控制程式來控制 CoppeliaSim 中的鋼球平衡台。以下是控制程式的基本步驟：</p>
 <p>導入所需的模組，包括 pyzmq、matplotlib 等。 通過 ZMQ RemoteAPI 連接到 CoppeliaSim 的場景伺服器。 設定 PID 控制器的參數。 啟動模擬並開始控制鋼球的移動。 以固定時間間隔更新控制信號，並將鋼球的位置記錄下來。 在模擬結束後，使用 matplotlib 將鋼球在平衡台上的 x 和 y 座標繪製成圖表。 控制模擬參考資料 我們還提供了其他控制模擬的參考資料，包括 ball_beam_balancing_PID_control_coppeliasim_1d_and_2d_cd2024_w9.7z。這些資料可供參考並進一步理解控制策略和實現細節。</p>
 <p>鋼球平衡台模擬控制實驗 最後，我們需要下載 cd2024_w10.7z 檔案，並在 CoppeliaSim 中運行該場景。我們將錄製模擬過程的影片並撰寫操作心得，以便記錄我們的實際操作和體驗。</p>
+<h2>w10</h2>
+<p><strong>2024 Spring 網際內容管理與協同產品設計實習課程教學導引.</strong></p>
+<p>協同產品設計實習第十週實習操作</p>
+<p>這一週的實習任務將會利用 ChatGPT、Gemini 1.5 Pro 和 Claude 3 來進行。</p>
+<p>任務一: 建立學員倉儲與網站連結 我們將使用 Replit 來維護分組倉儲，並且建立各班學員的倉儲、網站與分組連結。以下是我們的步驟： 將 2b.txt 中的資料即時取出，並逐一放入數列。 透過 for 迴圈，從上述資料中提取每位學員的基本資料（學號、Github 帳號與組別），並在網頁建立所需的 HTML。 使用以下連結模板來建立學員倉儲與網站連結： 學員倉儲連結模板: https://github.com/學員帳號/cd2024 學員網站連結模板: https://學員帳號.github.io/cd2024 2b 分組倉儲連結模板: https://github.com/mdecd2024/2b-midbg組別 2a 分組倉儲連結模板: https://github.com/mdecd2024/2a-midag組別 最後，列出 2b 各學員評分相關網站。 任務二: 鋼球平衡台 PID 控制與模擬 我們需要閱讀 cd2024_ball_balancing_platform_control_ref.7z 檔案中的論文摘要，並將其放入個人與分組網誌中。以下是我們對每篇論文的摘要：</p>
+<p>（論文摘要略）</p>
+<p>接下來，我們需要從 ball_beam_balancing_PID_control_coppeliasim_1d_and_2d_cd2024_w9.7z 檔案中獲取資料，並在 CoppeliaSim 中模擬鋼球平衡台的運動。我們將設定不同的 PID 控制參數，並記錄鋼球的 x 和 y 座標運動路徑圖，以便進行比較分析。</p>
+<p>任務三: 鋼球平衡台零組件繪圖 根據 Solvespace_model_2d_for_cd2024_w6.7z 中的零組件尺寸，我們將使用 Siemens NX1872 來執行零組件繪圖。完成後，我們將製作過程影片並放入個人與分組網站中。</p>
 </section>
 <section class="post-info">
 <aside class="post-tags"><a href="https://a92826.github.io/cd2024/blog/tag/wang-zhi-bian-xie.html"></a></aside>
