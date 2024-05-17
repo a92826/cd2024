@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w13</title><link href="./" rel="alternate"></link><link href="./feeds/w13.atom.xml" rel="self"></link><id>./</id><updated>2024-05-17T11:00:00+08:00</updated><entry><title>2024 Spring 課程w13</title><link href="./2024-Spring-w13-blog-tutorial.html" rel="alternate"></link><published>2024-05-17T11:00:00+08:00</published><updated>2024-05-17T07:23:06+08:00</updated><author><name>41023239</name></author><id>tag:None,2024-05-17:./2024-Spring-w13-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+&lt;p&gt;課程內容總覽
+課程背景與目標&lt;/p&gt;
+&lt;p&gt;簡介 KMOLab 系列課程，尤其是專注於協同產品設計的實習課程。
+強調課程目標，包括培養學生的協同設計能力和應用相關工具的技能。
+環境建置與工具介紹&lt;/p&gt;
+&lt;p&gt;詳細介紹可攜式系統的概念和相關工具，如Python、Git、CoppeliaSim等。
+提供相關工具的下載連結和安裝指南。
+課程指定任務&lt;/p&gt;
+&lt;p&gt;列出各週指定的任務，包括個人和分組任務。
+每個任務的目標和要求，以及完成任務所需的相關知識和技能。
+課程評分方式&lt;/p&gt;
+&lt;p&gt;評分標準和比重，例如學生每週編寫網誌、每週上課內容摘要與分組報告、分組期中報告和期末報告等。
+期中和期末報告的題目和要求，以及評分標準。
+參考資料和模擬場景建構&lt;/p&gt;
+&lt;p&gt;提供參考資料的連結，例如GitHub存儲庫和相關規格文件。
+詳細說明模擬場景的建構過程，包括從零組件繪製到導入CoppeliaSim的步驟。
+評分項目
+任務完成度&lt;/p&gt;
+&lt;p&gt;學生完成每週指定任務的程度。
+任務的準確性和完整性。
+參與度&lt;/p&gt;
+&lt;p&gt;學生在分組任務中的積極參與程度。
+學生對課程的主動投入和貢獻。
+技能掌握&lt;/p&gt;
+&lt;p&gt;學生掌握課程中所涉及的工具和技術的程度。
+學生能否熟練應用所學知識解決問題。
+文件撰寫與報告&lt;/p&gt;
+&lt;p&gt;學生所提交的文件和報告的質量和完整性。
+文件結構和排版是否清晰，報告內容是否具有說服力。
+協作能力&lt;/p&gt;
+&lt;p&gt;學生在分組任務中的團隊合作能力。
+學生與同伴之間的溝通和協調能力。&lt;/p&gt;</content><category term="w13"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
