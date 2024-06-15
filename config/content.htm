@@ -1335,4 +1335,59 @@ doc["threejsblock"].bind("click", threejsblock.do)
 <p><a href="/downloads/steel2.zip">輪子</a></p>
 <p><a href="/downloads/assembly1.zip">組合後整體</a></p>
 <h2>項目三</h2>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">from zmqRemoteApi_IPv6 import RemoteAPIClient
+import keyboard
+ 
+client = RemoteAPIClient('localhost', 23000)
+ 
+print('Program started')
+sim = client.getObject('sim')
+sim.startSimulation()
+print('Simulation started')
+ 
+def setWheelMotion(leftSpeed, rightSpeed):
+    # Set target velocity for each wheel
+    frontLeftWheel = sim.getObject('/Revolute_joint2')
+    frontRightWheel = sim.getObject('/Revolute_joint3')
+    rearLeftWheel = sim.getObject('/Revolute_joint1')
+    rearRightWheel = sim.getObject('/Revolute_joint4')
+    sim.setJointTargetVelocity(frontLeftWheel, leftSpeed)
+    sim.setJointTargetVelocity(frontRightWheel, rightSpeed)
+    sim.setJointTargetVelocity(rearLeftWheel, leftSpeed)
+    sim.setJointTargetVelocity(rearRightWheel, rightSpeed)
+   
+  
+leftSpeed = 0
+rightSpeed = 0
+# Main loop
+while True:
+    # Check keyboard input
+    if keyboard.is_pressed('w'):
+        leftSpeed = 10  # Forward motion
+        rightSpeed = -10  # Forward motion
+    elif keyboard.is_pressed('s'):
+        leftSpeed = -10  # Backward motion
+        rightSpeed = 10  # Backward motion
+    else:
+        leftSpeed = 0
+        rightSpeed = 0
+ 
+    if keyboard.is_pressed('a'):
+        leftSpeed += -5  # Left turn
+        rightSpeed -= 5  # Left turn
+    elif keyboard.is_pressed('d'):
+        leftSpeed -= -5  # Right turn
+        rightSpeed += 5  # Right turn
+         
+    
+         
+    if keyboard.is_pressed('q'):
+        break  # Quit
+ 
+    # Set motion for all wheels
+    setWheelMotion(leftSpeed, rightSpeed)
+ 
+# Stop the simulation
+sim.stopSimulation()
+</pre>
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ihIjWfr43M4?si=hZOANGKiS4yPLYuX" title="YouTube video player" width="560"></iframe></p>
